@@ -1,0 +1,14 @@
+{
+  "expected_runs": 270,
+  "observed_rows": 270,
+  "unique_run_keys": 270,
+  "duplicate_key_rows": 0,
+  "missing_run_count": 0,
+  "unexpected_run_count": 0,
+  "complete": true,
+  "missing_runs": [],
+  "unexpected_runs": [],
+  "preset_version": "main270_v3_fairness_1.0",
+  "manifest": "main_v3_fairness_270/main_v3_fairness_270_manifest.json",
+  "combined_csv": "main_v3_fairness_270/main_v3_fairness_270_combined.csv"
+}

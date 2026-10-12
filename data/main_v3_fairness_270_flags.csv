@@ -1,0 +1,1 @@
+method,method_label,n_collocation,seed,selected_stage,phi_rel_l2,omega_rel_l2,residual_rms_norm,residual_p99_norm,residual_max_norm,residual_max_t,adam_best_val_loss,lbfgs_val_loss_after,selected_val_loss,dense_physics_loss

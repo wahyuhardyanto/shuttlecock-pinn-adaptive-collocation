@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this reproducibility package, please cite the associated article and this archived release."
+title: "Sample-Efficient Residual-Adaptive Collocation for Physics-Informed Neural Networks: Shuttlecock Dynamics Reproducibility Package"
+type: software
+version: 1.0.0
+date-released: 2026-10-12
+authors:
+  - family-names: Hardyanto
+    given-names: Wahyu
+    orcid: "https://orcid.org/0000-0002-2555-1437"
+    affiliation: "Department of Physics, Universitas Negeri Semarang, Semarang, Indonesia"
+  - family-names: Rosyid
+    given-names: Muhammad Farchani
+    affiliation: "Department of Physics, Universitas Gadjah Mada, Yogyakarta, Indonesia"
+  - family-names: Wahyuni
+    given-names: Siti
+    affiliation: "Department of Physics, Universitas Negeri Semarang, Semarang, Indonesia"
+  - family-names: Listiyanto
+    given-names: ""
+    affiliation: "Department of Physics, Universitas Negeri Semarang, Semarang, Indonesia"
+  - family-names: Hapsari
+    given-names: Indri
+    affiliation: "Department of Physics, Universitas Negeri Semarang, Semarang, Indonesia"
+keywords:
+  - physics-informed neural networks
+  - adaptive collocation
+  - Latin hypercube sampling
+  - Monte Carlo sampling
+  - ordinary differential equations
+  - shuttlecock dynamics
+  - reproducibility

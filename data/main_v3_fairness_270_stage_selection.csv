@@ -1,0 +1,13 @@
+method,n_collocation,selected_stage,count
+alhs,50,lbfgs,30
+alhs,100,lbfgs,30
+alhs,200,adam_best,3
+alhs,200,lbfgs,27
+lhs,50,lbfgs,30
+lhs,100,adam_best,1
+lhs,100,lbfgs,29
+lhs,200,adam_best,3
+lhs,200,lbfgs,27
+mc,50,lbfgs,30
+mc,100,lbfgs,30
+mc,200,lbfgs,30
